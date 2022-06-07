@@ -601,7 +601,7 @@
 
 ### Lua
 
-* [Lua 5.3 参考手册](http://www.w3cschool.cc/manual/lua53doc/contents.html)
+* [Lua 5.3 参考手册](https://www.runoob.com/lua/lua-tutorial.html)
 
 
 ### Markdown
